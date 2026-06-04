@@ -1,5 +1,3 @@
-# smi
-
 # Crypto Dashboard
 
 Real-time crypto analytics dashboard.
