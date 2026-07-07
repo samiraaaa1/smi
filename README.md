@@ -10,5 +10,5 @@ Real-time crypto analytics dashboard.
 - TypeScript
 - Chart.js
 - CoinGecko API
-## 
+## ;l
 MIT
