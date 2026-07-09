@@ -7,7 +7,7 @@ Real-time crypto analytics dashboard.
 - News aggregator
 ## Tech Stack
 - React
-- TypeScript
+- 
 - Chart.js
 - CoinGecko API
 ## ;l
